@@ -1,0 +1,16 @@
+{
+  "name": "politicalpartiesuk",
+  "version": "1.0.0",
+  "description": "A political party guessing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "corpora": "git+ssh://git@github.com:robhuzzey/corpora.git",
+    "lodash": "^3.8.0",
+    "react": "^0.13.2"
+  }
+}
